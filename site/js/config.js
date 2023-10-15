@@ -1,6 +1,6 @@
-queryServiceUrl = "https://query.wikidata.org";
-wikiUrl = "https://www.wikidata.org",
-namespace = "Wikidata:Synia:",
+queryServiceUrl = "https://compoundcloud.wikibase.cloud/query/";
+wikiUrl = "https://compoundcloud.wikibase.cloud",
+namespace = "VHP4Safety:CompoundCollections:",
 
 endpoint = queryServiceUrl + "/sparql",
 templateApiUrl = wikiUrl + "/w/api.php",
